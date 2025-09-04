@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qiusheng Li(李秋生)"
 description              : "Focusing on intelligent information processing, target recognition and tracking"
-repository               : "zhdongyuan/liqiusheng.github.io"
+repository               : "liqiusheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
