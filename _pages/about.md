@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## Hi there 👋
+# Hi there 👋
 I am currently engaged in the research of intelligent information processing, target recognition and tracking. If you are seeking any form of **academic cooperation**, please feel free to email me at [liqiusheng@gnnu.edu.cn](mailto:liqiusheng@gnnu.edu.cn). I mainly recruit and cultivate postgraduates who are interested in studying the related fields of intelligent information processing and are willing to engage in research, development, production or application in this field！
 
 I earned my B.Eng. in Telecommunication Engineering from [Shanghai Railway University](https://baike.sogou.com/v7682323.htm) (上海铁道大学) (now integrated into [Tongji University](https://www.tongji.edu.cn/index.htm) (同济大学)), followed by an M.Eng. in Electronic and Information Engineering from [Beihang University](https://www.buaa.edu.cn/) (北京航空航天大学). I completed my Ph.D. under the supervision of [Prof. Xie Weixin](https://iip.szu.edu.cn/yjdw1/xieweixin.htm) at the School of Information Engineering, [Shenzhen University](https://www.szu.edu.cn/) (深圳大学).
@@ -29,11 +29,11 @@ My research interests include algorithm innovation and system application in rad
 - *2025.09*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (The content is filled in by Dongyuan Zhang, master of 2023. If there is any error in the information, please let me know.)
 
 # 📝 Publications
-### 📃 Papers
+## 📃 Papers
 
 - **Submitting......**
 
-#### **中文期刊**
+### ✨✨✨**中文期刊**
 
 - ``贵州师范大学学报(自然科学版) 2025`` &nbsp;🎉🎉 [基于WGAN-div和CNN的毫米波雷达人体动作识别方法](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAyGeiwBjCCfDJo_7_ApVAWh8Z_gAF7fQbD1tpHZnCjJWsXs6N-cnFwdqmoYwVp9VroQ6pG5B3irC3hGtPrmVnh75ilVTFBEHxANc2JflAUC8r5gTeFHKrbvDhgLEU6i1hlvxc0DtkBHNA==&uniplatform=NZKPT&language=CHS) **李秋生**, 钟滢洁.
 - ``商洛学院学报 2025`` &nbsp;🎉🎉 [基于变分模态分解和自适应双阈值的心电信号R波检测](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAz2RsrZqEnyr5DSqxlx-hocdfryxWc_y9mnLP4F4h7djvrFNlAQjqxOt7kNjZRizNq3Xrszlm_cLroo5hd_Ij0i-s7OBU22GVC_IEpmMnU27ECaZB9Vn1nAy25T-8QLnXd0wr_xFputQA==&uniplatform=NZKPT&language=CHS) 叶莉华, **李秋生**.
@@ -90,7 +90,8 @@ My research interests include algorithm innovation and system application in rad
 - ``制导与引信 2006`` &nbsp;🎉🎉 [相控阵雷达导引头调度策略研究](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RtwlSXS7N0tFLI112DI1RFLVAnG_4yTJEfu_QDI2sL8B--fEOyEzKU4LeOkdgMmO9jL015c4jKa8Na2XqPDe5rs6cdAiMtS5qxIBXJu3PVxfimLE0NIF90Rv7uqjx7K13Y6UeHi_9ybMkIJFXOcYn1cnVH6ZFMXSt1J8fpYbdi_yA==&uniplatform=NZKPT&language=CHS) **李秋生**.
 - ``制导与引信 2005`` &nbsp;🎉🎉 [相控阵雷达导引头捷联去耦技术研究](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-Rt3S9Qg_gPywffag03-L2iK3fDXuQL4gz45mV46ZXa6V57daXN4mjl3h6dAs6QkXl6gK08O4UdbkL_YEHIvJCXA_RCXvGakg7ecG-52RLZ5XcBFVE0r-qEOnIZTXheMzsGdExWVtPyHOJWBXkKs409zWfX4N6PdZhLW2HrrCyR-cQ==&uniplatform=NZKPT&language=CHS) **李秋生**.
 - ``微计算机信息 2003`` &nbsp;🎉🎉 [基于VB6的PC机与多台单片机通信在锂电池检测化成设备中应用](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-Rt3S9Qg_gPywffag03-L2iK3fDXuQL4gz4lPzsnSDQylA8NqqoRjFUCcJFVh8x0Bd_aujVoArryYoNcr6eVE4KwQkv2WbyMI953eXqoMxhjEfLrZosOHiXRD0xOKs6xQHN8iVzZXbqRXqmKtk7hmKBW34Sk9FSowlq0LLDH5tO0Bg==&uniplatform=NZKPT&language=CHS) **李秋生**, 王月忠.
-#### **SCI and EI**
+
+### ✨✨✨**SCI and EI**
 
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Research on RandomPhaseFeedingOptimization and Sidelobe Suppression in Phased Arrays Based on Dynamic SFLA](https://www.jpier.org/issues/volume.html?paper=25052601) Li Wang, **Qiusheng Li**.
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Human Action Recognition in Small-Sample Scenarios Based on Improved DCGAN and CNN Models](https://www.jpier.org/issues/volume.html?paper=25030402) Cheng Luo, **Qiusheng Li**, Yingjie Zhong.
@@ -119,17 +120,17 @@ My research interests include algorithm innovation and system application in rad
 - ``IEEE 11th International Conference on Signal Processing 2012`` &nbsp;🎉🎉 [Identification of aircraft targets based on multifractal spectrum features](https://ieeexplore.ieee.org/abstract/document/6491934) **Qiusheng Li**, Weixin Xie, Cheng Luo.
 - ``IEEE 11th International Conference on Signal Processing 2012`` &nbsp;🎉🎉 [Congestion avoidance and control in sensor network based on fuzzy AQM](https://ieeexplore.ieee.org/abstract/document/6492003) Cheng Luo, Weixin Xie, **Qiusheng Li**.
 
-### 📖 Books
+## 📖 Books
 
-#### 2022
+### 2022
 - [分数阶Fourier域常规雷达目标识别的分形理论及其应用](https://findgnnu.libsp.cn/#/searchList/bookDetails/1964234)
 
-#### 2019
+### 2019
 - [常规雷达目标识别的分形理论及其应用](https://findgnnu.libsp.cn/#/searchList/bookDetails/569631)
 
-### 📑 Patents
+## 📑 Patents
 
-#### 2018
+### 2018
 - ✈️[基于主成分分析的多重分形特征飞机目标分类方法](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvY3hPOf0rrIGY2MvX5gtXrrp-N1l80CdyBDywKhGc-CIW7PzYc4gRmrPb_SWHS-bRU9KCCQS1VL30RUUaNpySQeGEuXTQ3Wr6QidjilyxxmtXuHX_fUWwnTPAh0CqQsByvicxmCTyCGnetUbICHbr0wZ9KqNpFnC7Ep0fuOKsKoA==&uniplatform=NZKPT&language=CHS) **李秋生**, 张华霞, 谢晓春
 - ✈️[基于模糊综合评价的工厂环境安全自检方法](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RudMn6T7pcw24dldfGc779l9fHYqN5hKZmAEeMsARfUV-aMLypUm-aX_puQgRjZHpfXAAeI2uCEUZpOh1I7VmkvoLhDPyN3pIST8YIcdLZzNB_aTuM40rgWktYfACLZ3yvXO_nZL5A6ppkjiyZXtYjFjABUsTBRI59lCTlIkURreQ==&uniplatform=NZKPT&language=CHS) 朱赟, 刘玮瑶, 刘崧, **李秋生**, 凌震乾
 - ✈️[基于主成分分析的多重分形特征飞机目标分类方法](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvY3hPOf0rrIGY2MvX5gtXrrp-N1l80CdyBDywKhGc-CIW7PzYc4gRmrPb_SWHS-bRU9KCCQS1VL30RUUaNpySQeGEuXTQ3Wr6QidjilyxxmtXuHX_fUWwnTPAh0CqQsByvicxmCTyCGnetUbICHbr0wZ9KqNpFnC7Ep0fuOKsKoA==&uniplatform=NZKPT&language=CHS) **李秋生**, 张华霞, 谢晓春
