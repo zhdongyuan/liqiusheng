@@ -24,13 +24,11 @@ I earned my B.Eng. in Telecommunication Engineering from [Shanghai Railway Unive
 
 My research interests include algorithm innovation and system application in radar signal processing, computer vision, physiological signal processing (eeg/ecg) and text emotion calculation. I have published more than 20 papers in SCI or EI journals as the first author or corresponding author. My papers have been downloaded [more than 17,000 times](https://kns.cnki.net/kcms2/author/detail?v=Ut-mckhA-Rs_Qzvuh-2f7oNj0ld9KBEU_NXqQgQ1UXF3kOoEuVjpDthITU3BpcDWoORD3PBhuhg6K8Y98ANvOlCc6DwahWKKsCZWJawdo-cEpGVTNCEUcapsujzehlq4&uniplatform=NZKPT&language=CHS) on CNKI.
 
-<span class='anchor' id='-news'></span>
 
 # 🔥 News
 
 - *2025.09*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (The content is filled in by Dongyuan Zhang, master of 2023. If there is any error in the information, please let me know.)
 
-<span class='anchor' id='-publications'></span>
 
 # 📝 Publications
 ## 📃 Papers
@@ -139,7 +137,6 @@ My research interests include algorithm innovation and system application in rad
 - ✈️[基于模糊综合评价的工厂环境安全自检方法.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RudMn6T7pcw24dldfGc779l9fHYqN5hKZmAEeMsARfUV-aMLypUm-aX_puQgRjZHpfXAAeI2uCEUZpOh1I7VmkvoLhDPyN3pIST8YIcdLZzNB_aTuM40rgWktYfACLZ3yvXO_nZL5A6ppkjiyZXtYjFjABUsTBRI59lCTlIkURreQ==&uniplatform=NZKPT&language=CHS) 朱赟, 刘玮瑶, 刘崧, **李秋生**, 凌震乾
 - ✈️[基于主成分分析的多重分形特征飞机目标分类方法.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvY3hPOf0rrIGY2MvX5gtXrrp-N1l80CdyBDywKhGc-CIW7PzYc4gRmrPb_SWHS-bRU9KCCQS1VL30RUUaNpySQeGEuXTQ3Wr6QidjilyxxmtXuHX_fUWwnTPAh0CqQsByvicxmCTyCGnetUbICHbr0wZ9KqNpFnC7Ep0fuOKsKoA==&uniplatform=NZKPT&language=CHS) **李秋生**, 张华霞, 谢晓春
 
-<span class='anchor' id='-honors-and-awards'></span>
 
 # 🥇 Honors and Awards
 
@@ -149,13 +146,11 @@ My research interests include algorithm innovation and system application in rad
 - *2016*: ✈️Mentored the team of Chen Ken, Yuan Pu, Hu Zhuohua, Chen Weiqin & Cao An to **Second Prize in the 10th iCAN International Innovation & Entrepreneurship Contest (National Finals)**.
 - *2011*: ✈️Received the **“Best Paper Award”** from **the Signal Processing Chapter of the Chinese Institute of Electronics**.
 
-<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2010.09 - 2013.12*, Doctor, Information Engineering, Shenzhen University.
 - *2001.09 - 2004.03*, Master, Electronic and Information Engineering, Beihang University.
 - *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Shanghai Railway University, Shanghai. 
 
-<span class='anchor' id='-invited-talks'></span>
 # 💬 Invite Talks
 
 - 
