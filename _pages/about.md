@@ -88,7 +88,7 @@ My research interests include algorithm innovation and system application in rad
 - *2001.09 - 2004.03*, Master, Electronic and Information Engineering, Beihang University.
 - *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Shanghai Railway University, Shanghai. 
 
-# 💬 Invited Talks
+# 💬 Work Experience
 
 - *2006.07 - now*, School of Physics and Electronic Information, Gannan Normal University, Lecturer, Associate Professor
 - *2004.05 - 2006.04*, Engineer, Shanghai Radio Equipment Research Institute.
