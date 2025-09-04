@@ -75,7 +75,7 @@ My research interests include algorithm innovation and system application in rad
 - ✈️[基于主成分分析的多重分形特征飞机目标分类方法](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvY3hPOf0rrIGY2MvX5gtXrrp-N1l80CdyBDywKhGc-CIW7PzYc4gRmrPb_SWHS-bRU9KCCQS1VL30RUUaNpySQeGEuXTQ3Wr6QidjilyxxmtXuHX_fUWwnTPAh0CqQsByvicxmCTyCGnetUbICHbr0wZ9KqNpFnC7Ep0fuOKsKoA==&uniplatform=NZKPT&language=CHS) **李秋生**, 张华霞, 谢晓春
 
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 
 - *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** & Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
 - *2023*: ✈️Advised students **Zhu Huajuan**, He Jing & Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
