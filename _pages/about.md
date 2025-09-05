@@ -22,7 +22,7 @@ I am working in the school of physics and electronic information of [Gannan Norm
 
 I earned my B.Eng. in Telecommunication Engineering from [Shanghai Railway University](https://baike.sogou.com/v7682323.htm) (上海铁道大学) (now integrated into [Tongji University](https://www.tongji.edu.cn/index.htm) (同济大学)), followed by an M.Eng. in Electronic and Information Engineering from [Beihang University](https://www.buaa.edu.cn/) (北京航空航天大学). I completed my Ph.D. under the supervision of [Prof. Xie Weixin](https://iip.szu.edu.cn/yjdw1/xieweixin.htm) at the School of Information Engineering, [Shenzhen University](https://www.szu.edu.cn/) (深圳大学).
 
-My research interests include algorithm innovation and system application in radar signal processing, computer vision, physiological signal processing (EEG/ECG) and text emotion calculation. I have published more than 20 papers in SCI or EI journals as the first author or corresponding author. My papers have been downloaded [more than 17,000 times](https://kns.cnki.net/kcms2/author/detail?v=Ut-mckhA-Rs_Qzvuh-2f7oNj0ld9KBEU_NXqQgQ1UXF3kOoEuVjpDthITU3BpcDWoORD3PBhuhg6K8Y98ANvOlCc6DwahWKKsCZWJawdo-cEpGVTNCEUcapsujzehlq4&uniplatform=NZKPT&language=CHS) on CNKI.
+My research interests include algorithm innovation and system application in radar signal processing, computer vision, physiological signal processing (eeg/ecg) and text emotion calculation. I have published more than 20 papers in SCI or EI journals as the first author or corresponding author. My papers have been downloaded [more than 17,000 times](https://kns.cnki.net/kcms2/author/detail?v=Ut-mckhA-Rs_Qzvuh-2f7oNj0ld9KBEU_NXqQgQ1UXF3kOoEuVjpDthITU3BpcDWoORD3PBhuhg6K8Y98ANvOlCc6DwahWKKsCZWJawdo-cEpGVTNCEUcapsujzehlq4&uniplatform=NZKPT&language=CHS) on CNKI.
 
 
 # 🔥 News
@@ -94,7 +94,8 @@ My research interests include algorithm innovation and system application in rad
 - ``微计算机信息 2003`` &nbsp;🎉🎉 [基于VB6的PC机与多台单片机通信在锂电池检测化成设备中应用.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-Rt3S9Qg_gPywffag03-L2iK3fDXuQL4gz4lPzsnSDQylA8NqqoRjFUCcJFVh8x0Bd_aujVoArryYoNcr6eVE4KwQkv2WbyMI953eXqoMxhjEfLrZosOHiXRD0xOKs6xQHN8iVzZXbqRXqmKtk7hmKBW34Sk9FSowlq0LLDH5tO0Bg==&uniplatform=NZKPT&language=CHS) **李秋生**, 王月忠.
 
 ### ✨✨✨**SCI and EI**
-
+ 
+- ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) Dongyuan Zhang, **Qiusheng Li***, Xindi Yuan
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Research on RandomPhaseFeedingOptimization and Sidelobe Suppression in Phased Arrays Based on Dynamic SFLA.](https://www.jpier.org/issues/volume.html?paper=25052601) Li Wang, **Qiusheng Li**.
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Human Action Recognition in Small-Sample Scenarios Based on Improved DCGAN and CNN Models.](https://www.jpier.org/issues/volume.html?paper=25030402) Cheng Luo, **Qiusheng Li**, Yingjie Zhong.
 - ``Scientific Reports 2024`` &nbsp;🎉🎉 [Human motion recognition based on feature fusion and residual networks.](https://www.nature.com/articles/s41598-024-80783-7) Xiaoyu Luo, **Qiusheng Li**.
@@ -139,9 +140,25 @@ My research interests include algorithm innovation and system application in rad
 
 
 # 🥇 Honors and Awards
-
+## Only some awards were recorded.
+- *2025*: ✈️Mentored students **Zhang Dongyuan**, **Gan Pingan**, and Chen Jianing to win the Second Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2025*: ✈️Mentored students **Zhang Dongyuan** and **Gan Pingan** to win the Third Prize in **the sixth "HuaShu Cup" National Mathematical Contest in Modeling (Graduate Division)**.
+- *2025*: ✈️Mentored students **Zhang Dongyuan**, **Gan Pingan**, and Xu Yidan to win the Third Prize in **the 2025 APMCM Asia-Pacific Mathematical Contest in Modeling (Graduate Division)**.
+- *2025*: ✈️Mentored students Chen Jianing, Chen Ren, and **Zhang Dongyuan** to win the Third Prize in **the 20th China Postgraduate Electronic Design Contest (Huazhong Sub-region)**.
+- *2025*: ✈️Mentored students **Zhang Dongyuan** and Gan **Pingan** to win the Third Prize in **the 15th MathorCup Mathematical Application Challenge (Graduate Division)**.
+- *2025*: ✈️Mentored students **Peng Yujia**, Huang Weirui, and Huang Xiaoqing to win the Second Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2025*: ✈️Mentored students **Peng Yujia**, Huang Weirui, and Huang Xiaoqing to win the Third Prize in **the 20th China Postgraduate Electronic Design Contest (Huazhong Sub-region)**.
+- *2025*: ✈️Mentored students **Zhang Dongyuan** and **Gan Pingan** to win the Outstanding Prize in **the 3rd "HuaShu Cup" International Mathematical Contest in Modeling (Graduate Division)**.
+- *2024*: ✈️Mentored students **Zhang Dongyuan** and **Gan Pingan** to win the Third Prize in **the 5th MathorCup Mathematical Application Challenge - Big Data Contest (Graduate Division)**.
 - *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** and Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest in Modeling**.
 - *2023*: ✈️Advised students **Zhu Huajuan**, He Jing and Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest in Modeling**.
+- *2023*: ✈️Mentored student **Dou Yun** to win the Second Prize in **the 18th China Postgraduate Electronic Design Contest (Huazhong Sub-region) with the “GigaDevice Cup”**.
+- *2023*: ✈️Mentored student **Dou Yun** to win the Third Prize in the Jingjiamicro Enterprise Special Award at **the 18th China Postgraduate Electronic Design Contest with the “GigaDevice Cup”**.
+- *2021*: ✈️Mentored student **Zhang Qianli** to win the Third Prize in **the Paper Competition of the 16th Academic Conference on Image and Graphics Technology and Applications**.
+- *2021*: ✈️Mentored students **Zhang Qianli** to win the Third Prize in **the 16th MathorCup Mathematical Application Challenge**.
+- *2021*: ✈️Mentored student **Hu Junyong** and **Zhang Qianli** to win the Second Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2020*: ✈️Mentored student **Hu Junyong** and **Zhang Qianli** to win the Third Prize in **the Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2019*: ✈️Mentored student **Hu Junyong** and **Zhang Qianli** to win the Third Prize in **the 16th China Postgraduate Electronic Design Contest (Huazhong Sub-region)**.
 - *2019*: ✈️Advised student **Zhang Huaxia** to win the First Prize in the **Jiangxi Postgraduate Mathematical Contest in Modeling**.
 - *2018*: ✈️Mentored student **Zhang Huaxia** to win the Second Prize in the **Jiangxi Postgraduate Mathematical Contest in Modeling**.
 - *2018*: ✈️Mentored student **Zhang Huaxia** to win the Third Prize in **the 13th China Graduate Electronic Design Contest (Huazhong Sub-region) with the “GigaDevice Cup”**.
