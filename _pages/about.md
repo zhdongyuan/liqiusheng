@@ -140,10 +140,10 @@ My research interests include algorithm innovation and system application in rad
 
 # 🥇 Honors and Awards
 
-- *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** & Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
-- *2023*: ✈️Advised students **Zhu Huajuan**, He Jing & Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
+- *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** and Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
+- *2023*: ✈️Advised students **Zhu Huajuan**, He Jing and Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
 - *2017*: ✈️Honored as **“Outstanding Contributor to Institutional Accreditation”** by the university.
-- *2016*: ✈️Mentored the team of Chen Ken, Yuan Pu, Hu Zhuohua, Chen Weiqin & Cao An to **Second Prize in the 10th iCAN International Innovation & Entrepreneurship Contest (National Finals)**.
+- *2016*: ✈️Mentored the team of Chen Ken, Yuan Pu, Hu Zhuohua, Chen Weiqin and Cao An to **Second Prize in the 10th iCAN International Innovation & Entrepreneurship Contest (National Finals)**.
 - *2011*: ✈️Received the **“Best Paper Award”** from **the Signal Processing Chapter of the Chinese Institute of Electronics**.
 
 # 📖 Educations
