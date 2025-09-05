@@ -37,6 +37,7 @@ My research interests include algorithm innovation and system application in rad
 
 ### ✨✨✨**中文期刊**
 
+- ``安徽大学学报(自然科学版) xx`` &nbsp;🎉🎉 [基于多模态和CGB-ResNet的信号调制识别方法(已录用)]() **李秋生**, 窦雲
 - ``贵州师范大学学报(自然科学版) 2025`` &nbsp;🎉🎉 [基于WGAN-div和CNN的毫米波雷达人体动作识别方法.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAyGeiwBjCCfDJo_7_ApVAWh8Z_gAF7fQbD1tpHZnCjJWsXs6N-cnFwdqmoYwVp9VroQ6pG5B3irC3hGtPrmVnh75ilVTFBEHxANc2JflAUC8r5gTeFHKrbvDhgLEU6i1hlvxc0DtkBHNA==&uniplatform=NZKPT&language=CHS) **李秋生**, 钟滢洁.
 - ``商洛学院学报 2025`` &nbsp;🎉🎉 [基于变分模态分解和自适应双阈值的心电信号R波检测.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAz2RsrZqEnyr5DSqxlx-hocdfryxWc_y9mnLP4F4h7djvrFNlAQjqxOt7kNjZRizNq3Xrszlm_cLroo5hd_Ij0i-s7OBU22GVC_IEpmMnU27ECaZB9Vn1nAy25T-8QLnXd0wr_xFputQA==&uniplatform=NZKPT&language=CHS) 叶莉华, **李秋生**.
 - ``航空兵器 2025`` &nbsp;🎉🎉 [基于循环双谱与改进VGGNet的常规雷达目标分类.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RuUstZANEEn-uENpYkDY2AXswKvhsSYG7qAacJ1Ir7uxER1SIsyVKErI5V1sRKFw7pOnG74F6pgJLoG1Ixsh74RpOxdtq4lwbJvd7CWOUTFyd5O_sq2yxOzFIJWNbqoVyduj3BXmfjgp97NzqPjWV2zJZtzXGjvBJNTPaYmZJmBow==&uniplatform=NZKPT&language=CHS) **李秋生**, 熊芳茂, 朱化娟.
