@@ -177,6 +177,7 @@ My research interests include algorithm innovation and system application in rad
 # 🧑‍🎓 Students
 ## Research Center of Intelligent Control Engineering Technology(智能控制工程技术研究中心)🔎
 ### Reading🌟🌟🌟
+- *2025*: **Recruiting**
 - *2024*: **👩‍🎓Gan Pingan(甘平安)**, **👨‍🎓Peng Yujia(彭雨佳)**, **👨‍🎓Guo Yuanhui(郭远辉)**
 - *2023*: **👨‍🎓Zhang Dongyuan(张东园)**, **👨‍🎓Xiong Fangmao(熊芳茂)**
 
