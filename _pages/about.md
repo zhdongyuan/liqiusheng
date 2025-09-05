@@ -140,8 +140,13 @@ My research interests include algorithm innovation and system application in rad
 
 # 🥇 Honors and Awards
 
-- *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** and Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
-- *2023*: ✈️Advised students **Zhu Huajuan**, He Jing and Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest**.
+- *2023*: ✈️Advised students Xu Suqiong, **Hu Yuchen** and Niu Zhonghui to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest in Modeling**.
+- *2023*: ✈️Advised students **Zhu Huajuan**, He Jing and Yang Huanghong to win Second Prize in the **Jiangxi Postgraduate Mathematical Modeling Contest in Modeling**.
+- *2019*: ✈️Advised student **Zhang Huaxia** to win the First Prize in the **Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2018*: ✈️Mentored student **Zhang Huaxia** to win the Second Prize in the **Jiangxi Postgraduate Mathematical Contest in Modeling**.
+- *2018*: ✈️Mentored student **Zhang Huaxia** to win the Third Prize in **the 13th China Graduate Electronic Design Contest (Huazhong Sub-region) with the “GigaDevice Cup”**.
+- *2017*: ✈️Mentored student **Zhang Huaxia** to win the Third Prize in **the 14th China Postgraduate Mathematical Contest in Modeling with the “Huawei Cup”**.
+- *2018*: ✈️Mentored student **Zhang Huaxia** to win the Second Prize in **the 15th China Postgraduate Mathematical Contest in Modeling with the “Huawei Cup”**.
 - *2017*: ✈️Honored as **“Outstanding Contributor to Institutional Accreditation”** by the university.
 - *2016*: ✈️Mentored the team of Chen Ken, Yuan Pu, Hu Zhuohua, Chen Weiqin and Cao An to **Second Prize in the 10th iCAN International Innovation & Entrepreneurship Contest (National Finals)**.
 - *2011*: ✈️Received the **“Best Paper Award”** from **the Signal Processing Chapter of the Chinese Institute of Electronics**.
@@ -151,9 +156,18 @@ My research interests include algorithm innovation and system application in rad
 - *2001.09 - 2004.03*, Master, Electronic and Information Engineering, Beihang University, Beijing.
 - *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Shanghai Railway University, Shanghai. 
 
-# 💬 Invited Talks
+# 🧑‍🎓 Students
+## Research Center of Intelligent Control Engineering Technology(智能控制工程技术研究中心)🔎
+### Reading🌟🌟🌟
+- *2024*: **👩‍🎓Gan Pingan(甘平安)**, **👨‍🎓Peng Yujia(彭雨佳)**, **👨‍🎓Guo Yuanhui(郭远辉)**
+- *2023*: **👨‍🎓Zhang Dongyuan(张东园)**, **👨‍🎓Xiong Fangmao(熊芳茂)**
 
-- 
+### Graduated✨✨✨
+- *2022*: **👨‍🎓Dou Yun(窦雲)**, **👩‍🎓Luo Xiaoyu(罗小玉)**, **👩‍🎓Long Yu(龙宇)**
+- *2021*: **👩‍🎓Zhu Huajuan(朱化娟)**, **👨‍🎓Hu Yuchen(胡宇晨)**
+- *2020*: **👩‍🎓Ye Lihua(叶莉华)**, **👩‍🎓Su Jingran(苏靖然)**, **👩‍🎓Zhong Yingjie(钟滢洁)**
+- *2019*: **👩‍🎓Zhang Qianli(章倩丽)**, **👨‍🎓Hu Junyong(胡俊勇)**
+- *2017*: **👩‍🎓Zhang Huaxia(张华霞)**, **👨‍🎓Chen Mingzhen(陈明真)**
 
 # 💻 Work Experience
 
