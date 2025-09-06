@@ -217,7 +217,7 @@ My research interests include algorithm innovation and system application in rad
 
 #### *2017*: 
 - **👩‍🎓Zhang Huaxia(张华霞)：西北工业大学博士, 现工作单位：山东农业大学**
-- **👨‍🎓Chen Mingzhen(陈明真)：福州大学读博士, 现工作单位：福建阳光学院**
+- **👨‍🎓Chen Mingzhen(陈明真)：福州大学博士, 现工作单位：福建阳光学院**
 
 # 💻 Work Experience
 
