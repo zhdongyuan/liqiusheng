@@ -192,7 +192,7 @@ My research interests include algorithm innovation and system application in rad
 - **👨‍🎓Guo Yuanhui(郭远辉)**
 
 #### *2023*
-- **👨‍🎓Zhang Dongyuan(张东园)**
+- **👨‍🎓[Zhang Dongyuan(张东园)](https://zhdongyuan.github.io/)**
 - **👨‍🎓Xiong Fangmao(熊芳茂)**
 
 ### Graduated✨✨✨
