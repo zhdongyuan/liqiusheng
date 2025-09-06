@@ -6,6 +6,9 @@ main:
   - title: "News"
     url: "/liqiusheng/#-news"
 
+  - title: "Research Project"
+    url: "/liqiusheng/#-research-project"
+
   - title: "Publications"
     url: "/liqiusheng/#-publications"
 
