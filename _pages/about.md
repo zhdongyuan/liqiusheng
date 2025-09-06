@@ -183,7 +183,7 @@ My research interests include algorithm innovation and system application in rad
 - *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Shanghai Railway University, Shanghai. 
 
 # 🧑‍🎓 Students
-## Research Center of Intelligent Control Engineering Technology(智能控制工程技术研究中心)🔎
+## Research Center of Intelligent Control Engineering Technology([智能控制工程技术研究中心](https://wdxy.gnnu.edu.cn/info/1056/4151.htm))🔎
 ### Reading🌟🌟🌟
 
 #### *2024*
