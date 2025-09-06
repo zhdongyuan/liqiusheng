@@ -29,6 +29,14 @@ My research interests include algorithm innovation and system application in rad
 
 - *2025.09*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (The content is filled in by Dongyuan Zhang, master of 2023. If there is any error in the information, please let me know.)
 
+# ✍️Research Project
+
+- ``2025.01 - 2027.12`` &nbsp;🎉🎉 江西省自然科学基金面上项目, 20242BAB25052, 基于雷达微多普勒特征和时序对抗网络模型的人体行为识别研究. 10万元, 在研, 主持.
+- ``2016.01 - 2019.12`` &nbsp;🎉🎉 国家自然科学地区基金项目, 61561004, 分数阶Fourier域常规雷达目标识别的分形理论及其应用研究. 35万元, 已结题, 主持.
+- ``2014.01 - 2018.12`` &nbsp;🎉🎉 国家自然科学基金重点项目, 61331021, 分数阶Fourier变换应用基础理论与关键技术及其在海洋目标探测中的应用. 295万元, 已结题, 参加.
+- ``2014.01 - 2016.12`` &nbsp;🎉🎉 江西省教育厅科学技术研究项目, GJJ14658, 基于分数阶Fourier变换的图像处理理论及其在海洋目标探测中的应用. 2万元, 已结题, 主持.
+- ``2013.01 - 2016.12`` &nbsp;🎉🎉 国家自然科学基金面上项目, 61271107, 多目标跟踪的PHD滤波理论及高斯混合实现算法研究. 80万元, 已结题, 参加.
+- ``2013.06 - 2015.06`` &nbsp;🎉🎉 武器装备预研基金项目, 9140C80010××××C80625, 防空雷达目标识别的分形理论及其应用研究. 20万元, 已结题, 参加.
 
 # 📝 Publications
 ## 📃 Papers
@@ -37,7 +45,7 @@ My research interests include algorithm innovation and system application in rad
 
 ### ✨✨✨**中文期刊**
 
-- ``安徽大学学报(自然科学版) xx`` &nbsp;🎉🎉 [基于多模态和CGB-ResNet的信号调制识别方法(已录用)]() **李秋生**, 窦雲
+- ``安徽大学学报(自然科学版) 2025`` &nbsp;🎉🎉 [基于多模态和CGB-ResNet的信号调制识别方法(已录用)]() **李秋生**, 窦雲
 - ``贵州师范大学学报(自然科学版) 2025`` &nbsp;🎉🎉 [基于WGAN-div和CNN的毫米波雷达人体动作识别方法.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAyGeiwBjCCfDJo_7_ApVAWh8Z_gAF7fQbD1tpHZnCjJWsXs6N-cnFwdqmoYwVp9VroQ6pG5B3irC3hGtPrmVnh75ilVTFBEHxANc2JflAUC8r5gTeFHKrbvDhgLEU6i1hlvxc0DtkBHNA==&uniplatform=NZKPT&language=CHS) **李秋生**, 钟滢洁.
 - ``商洛学院学报 2025`` &nbsp;🎉🎉 [基于变分模态分解和自适应双阈值的心电信号R波检测.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RvolEXEbsNg8hFlUmfUTREdJLi5euTnXAz2RsrZqEnyr5DSqxlx-hocdfryxWc_y9mnLP4F4h7djvrFNlAQjqxOt7kNjZRizNq3Xrszlm_cLroo5hd_Ij0i-s7OBU22GVC_IEpmMnU27ECaZB9Vn1nAy25T-8QLnXd0wr_xFputQA==&uniplatform=NZKPT&language=CHS) 叶莉华, **李秋生**.
 - ``航空兵器 2025`` &nbsp;🎉🎉 [基于循环双谱与改进VGGNet的常规雷达目标分类.](https://kns.cnki.net/kcms2/article/abstract?v=Ut-mckhA-RuUstZANEEn-uENpYkDY2AXswKvhsSYG7qAacJ1Ir7uxER1SIsyVKErI5V1sRKFw7pOnG74F6pgJLoG1Ixsh74RpOxdtq4lwbJvd7CWOUTFyd5O_sq2yxOzFIJWNbqoVyduj3BXmfjgp97NzqPjWV2zJZtzXGjvBJNTPaYmZJmBow==&uniplatform=NZKPT&language=CHS) **李秋生**, 熊芳茂, 朱化娟.
@@ -177,16 +185,39 @@ My research interests include algorithm innovation and system application in rad
 # 🧑‍🎓 Students
 ## Research Center of Intelligent Control Engineering Technology(智能控制工程技术研究中心)🔎
 ### Reading🌟🌟🌟
-- *2025*: **Recruiting**
-- *2024*: **👩‍🎓Gan Pingan(甘平安)**, **👨‍🎓Peng Yujia(彭雨佳)**, **👨‍🎓Guo Yuanhui(郭远辉)**
-- *2023*: **👨‍🎓Zhang Dongyuan(张东园)**, **👨‍🎓Xiong Fangmao(熊芳茂)**
+
+#### *2024*
+- **👩‍🎓Gan Pingan(甘平安)**
+- **👨‍🎓Peng Yujia(彭雨佳)**
+- **👨‍🎓Guo Yuanhui(郭远辉)**
+
+#### *2023*
+- **👨‍🎓Zhang Dongyuan(张东园)**
+- **👨‍🎓Xiong Fangmao(熊芳茂)**
 
 ### Graduated✨✨✨
-- *2022*: **👨‍🎓Dou Yun(窦雲)**, **👩‍🎓Luo Xiaoyu(罗小玉)**, **👩‍🎓Long Yu(龙宇)**
-- *2021*: **👩‍🎓Zhu Huajuan(朱化娟)**, **👨‍🎓Hu Yuchen(胡宇晨)**
-- *2020*: **👩‍🎓Ye Lihua(叶莉华)**, **👩‍🎓Su Jingran(苏靖然)**, **👩‍🎓Zhong Yingjie(钟滢洁)**
-- *2019*: **👩‍🎓Zhang Qianli(章倩丽)**, **👨‍🎓Hu Junyong(胡俊勇)**
-- *2017*: **👩‍🎓Zhang Huaxia(张华霞)**, **👨‍🎓Chen Mingzhen(陈明真)**
+
+#### *2022* 
+- **👨‍🎓Dou Yun(窦雲)：内蒙古银行股份有限公司**
+- **👩‍🎓Luo Xiaoyu(罗小玉)：东华理工大学**
+- **👩‍🎓Long Yu(龙宇)：中国铁塔股份有限公司**
+
+#### *2021* 
+- **👩‍🎓Zhu Huajuan(朱化娟)：杭州筹图科技有限公司**
+- **👨‍🎓Hu Yuchen(胡宇晨)：江西工程学院**
+
+#### *2020*
+- **👩‍🎓Ye Lihua(叶莉华)：南昌理工学院**
+- **👩‍🎓Su Jingran(苏靖然)：山东现代学院 ➡️ 山东服装职业学院**
+- **👩‍🎓Zhong Yingjie(钟滢洁)：萍乡市安源红色资源发展保护中心**
+
+#### *2019*
+- **👩‍🎓Zhang Qianli(章倩丽)：赣东学院**
+- **👨‍🎓Hu Junyong(胡俊勇)：奥克斯集团有限公司**
+
+#### *2017*: 
+- **👩‍🎓Zhang Huaxia(张华霞)：西北工业大学博士, 现工作单位：山东农业大学**
+- **👨‍🎓Chen Mingzhen(陈明真)：福州大学读博士, 现工作单位：福建阳光学院**
 
 # 💻 Work Experience
 
