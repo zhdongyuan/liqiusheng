@@ -186,9 +186,13 @@ My research interests include algorithm innovation and system application in rad
 ## Research Center of Intelligent Control Engineering Technology([智能控制工程技术研究中心](https://wdxy.gnnu.edu.cn/info/1056/4151.htm))🔎
 ### Reading🌟🌟🌟
 
+### *2025*
+- **👩‍🎓Chen Meirong(陈梅榕)**
+- **👩‍🎓Li Junfen(李俊纷)**
+- **👨‍🎓Chen Haoyuan(陈昊远)**
 #### *2024*
 - **👩‍🎓Gan Pingan(甘平安)**
-- **👨‍🎓Peng Yujia(彭雨佳)**
+- **👩‍🎓Peng Yujia(彭雨佳)**
 - **👨‍🎓Guo Yuanhui(郭远辉)**
 
 #### *2023*
