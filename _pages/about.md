@@ -27,7 +27,8 @@ My research interests include algorithm innovation and system application in rad
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (The content is filled in by Dongyuan Zhang, master of 2023. If there is any error in the information, please let me know.)
+- *2025.09.10*: &nbsp;🎉🎉 A warm welcome to our three new classmates—Chen Meirong, Chen Haoyuan, and Li Junfen—as you join our big family!
+- *2025.09.05*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (If there is any error in the information, please let me know.)
 
 # 🎊 Research Project
 
