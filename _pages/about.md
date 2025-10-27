@@ -27,6 +27,7 @@ My research interests include algorithm innovation and system application in rad
 
 # 🔥 News
 
+- *2025.10.11*: &nbsp;🎉🎉 Our team's latest research achievement, titled "DenseNet-based EEG emotion recognition model integrating multi-scale feature fusion and channel optimization," has been published online in the top SCI Zone 2 journal Biomedical Signal Processing and Control!
 - *2025.09.10*: &nbsp;🎉🎉 A warm welcome to our three new classmates—Chen Meirong, Chen Haoyuan, and Li Junfen—as you join our big family!
 - *2025.09.05*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (If there is any error in the information, please let me know.)
 
@@ -105,6 +106,7 @@ My research interests include algorithm innovation and system application in rad
 
 ### ✨✨✨**SCI and EI**
  
+- ``Biomedical Signal Processing and Control 2025`` &nbsp;🎉🎉 [DenseNet-based EEG emotion recognition model integrating multi-scale feature fusion and channel optimization.](https://doi.org/10.1016/j.bspc.2025.108926) **Li Qiusheng**, Su Jingran, Gan Ping’an
 - ``Engineering Applications of Artificial Intelligence 2025`` &nbsp;🎉🎉 [A lightweight detection model for green navel oranges in natural environments.](https://www.sciencedirect.com/science/article/abs/pii/S0952197625021657) Dongyuan Zhang, **Qiusheng Li***, Xindi Yuan
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Research on RandomPhaseFeedingOptimization and Sidelobe Suppression in Phased Arrays Based on Dynamic SFLA.](https://www.jpier.org/issues/volume.html?paper=25052601) Li Wang, **Qiusheng Li**.
 - ``Progress In Electromagnetics Research C 2025`` &nbsp;🎉🎉 [Human Action Recognition in Small-Sample Scenarios Based on Improved DCGAN and CNN Models.](https://www.jpier.org/issues/volume.html?paper=25030402) Cheng Luo, **Qiusheng Li**, Yingjie Zhong.
