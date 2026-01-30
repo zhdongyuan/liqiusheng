@@ -216,7 +216,7 @@ My research interests include algorithm innovation and system application in rad
 - **👨‍🎓Hu Yuchen(胡宇晨)：[江西工程学院](https://www.jxue.edu.cn/)**
 
 #### *2020*
-- **👩‍🎓Ye Lihua(叶莉华)：[南昌理工学院](https://www.nut.edu.cn/)**
+- **👩‍🎓Ye Lihua(叶莉华)：[南昌理工学院](https://www.nut.edu.cn/) ➡️ [赣南科技学院2026](https://www.gnust.edu.cn/)****
 - **👩‍🎓Su Jingran(苏靖然)：[山东现代学院](https://www.sdxd.edu.cn/) ➡️ [山东服装职业学院](https://www.sdfzxy.edu.cn/)**
 - **👩‍🎓Zhong Yingjie(钟滢洁)：[萍乡市安源红色资源发展保护中心](https://baike.baidu.com/item/%E8%90%8D%E4%B9%A1%E5%AD%A6%E9%99%A2%E5%AE%89%E6%BA%90%E7%BA%A2%E8%89%B2%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83/24259551)**
 
