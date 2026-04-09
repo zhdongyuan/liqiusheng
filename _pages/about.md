@@ -22,7 +22,7 @@ I am working in the school of physics and electronic information of [Gannan Norm
 
 I earned my B.Eng. in Telecommunication Engineering from [Shanghai Railway University](https://baike.sogou.com/v7682323.htm) (上海铁道大学) (now integrated into [Tongji University](https://www.tongji.edu.cn/index.htm) (同济大学)), followed by an M.Eng. in Electronic and Information Engineering from [Beihang University](https://www.buaa.edu.cn/) (北京航空航天大学). I completed my Ph.D. under the supervision of [Prof. Xie Weixin](https://iip.szu.edu.cn/yjdw1/xieweixin.htm) at the School of Information Engineering, [Shenzhen University](https://www.szu.edu.cn/) (深圳大学).
 
-My research interests include algorithm innovation and system application in radar signal processing, computer vision, physiological signal processing (eeg/ecg) and text emotion calculation. I have published more than 20 papers in SCI or EI journals as the first author or corresponding author. My papers have been downloaded [more than 17,000 times](https://kns.cnki.net/kcms2/author/detail?v=Ut-mckhA-Rs_Qzvuh-2f7oNj0ld9KBEU_NXqQgQ1UXF3kOoEuVjpDthITU3BpcDWoORD3PBhuhg6K8Y98ANvOlCc6DwahWKKsCZWJawdo-cEpGVTNCEUcapsujzehlq4&uniplatform=NZKPT&language=CHS) on CNKI.
+My research interests include algorithm innovation and system application in radar signal processing, computer vision, physiological signal processing (eeg/ecg) and text emotion calculation. I have published more than 20 papers in SCI or EI journals as the first author or corresponding author. My papers have been downloaded [more than 18,000 times](https://kns.cnki.net/kcms2/author/detail?v=Ut-mckhA-Rs_Qzvuh-2f7oNj0ld9KBEU_NXqQgQ1UXF3kOoEuVjpDthITU3BpcDWoORD3PBhuhg6K8Y98ANvOlCc6DwahWKKsCZWJawdo-cEpGVTNCEUcapsujzehlq4&uniplatform=NZKPT&language=CHS) on CNKI.
 
 
 # 🔥 News
@@ -187,7 +187,7 @@ My research interests include algorithm innovation and system application in rad
 # 📖 Educations
 - *2010.09 - 2013.12*, Doctor, Information Engineering, Shenzhen University, Shenzhen.
 - *2001.09 - 2004.03*, Master, Electronic and Information Engineering, Beihang University, Beijing.
-- *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Shanghai Railway University, Shanghai. 
+- *1994.09 - 1998.07*, Undergraduate, Telecommunication Engineering, Tongji University, Shanghai. 
 
 # 🧑‍🎓 Students
 ## Research Center of Intelligent Control Engineering Technology([智能控制工程技术研究中心](https://wdxy.gnnu.edu.cn/info/1056/4151.htm))🔎
