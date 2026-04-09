@@ -28,7 +28,7 @@ My research interests include algorithm innovation and system application in rad
 # 🔥 News
 
 -  *2025*: &nbsp;🎉🎉 Congratulations to Dr. Qiusheng Li, head of the laboratory, on his promotion from a university-appointed professor to a full professor in 2025.
--  *2025.11.15*: &nbsp;🎉🎉 团队的最新论文"[基于多模态和CGB-ResNet的信号调制识别方法.](https://www.cnki.net/) "**李秋生**, 窦雲, 现在已可在知网检索
+-  *2025.11.15*: &nbsp;🎉🎉 团队的最新论文"[基于多模态和CGB-ResNet的信号调制识别方法.](https://www.cnki.net/) **李秋生**, 窦雲, 现在已可在知网检索
 - *2025.10.11*: &nbsp;🎉🎉 Our team's latest research achievement, titled "DenseNet-based EEG emotion recognition model integrating multi-scale feature fusion and channel optimization," has been published online in the top SCI Zone 2 journal Biomedical Signal Processing and Control!
 - *2025.09.10*: &nbsp;🎉🎉 A warm welcome to our three new classmates—Chen Meirong, Chen Haoyuan, and Li Junfen—as you join our big family!
 - *2025.09.05*: &nbsp;🎉🎉 Create a personal academic page and improve some information. (If there is any error in the information, please let me know.)
